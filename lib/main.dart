@@ -40,7 +40,7 @@ class MyHomePage extends StatefulWidget {
   //암 미ㅣ암
 
   // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
+  // case thee App widget) and
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
 
