@@ -39,7 +39,7 @@ class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
   //암 미ㅣ암
 
-  // This class is the configuration for the state. It holds the values (in this
+  // This clas is the configuration for the state. It holds the values (in this
   // case th
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
