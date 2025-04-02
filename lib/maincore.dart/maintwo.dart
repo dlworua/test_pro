@@ -7,7 +7,3 @@ class Maintwo extends StatelessWidget {
     throw UnimplementedError();
   }
 }
-//jaja
-//Im a King!!
-//Just Do It!!!
-//fish
