@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
   //암 미ㅣ암
-  //on for the state. It holds the values (in this
+  //on for the It holds the values (in this
   // case thds in a Widget subclass are
   // always marked "final".
 
