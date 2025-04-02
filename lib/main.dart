@@ -14,4 +14,5 @@ class MyApp extends StatelessWidget {
     return MaterialApp(home: maincore());
   }
 }
-//한번만 더해보자!
+//한번만 더해보자!1.
+//s
