@@ -14,7 +14,3 @@ class MyApp extends StatelessWidget {
     return MaterialApp(home: maincore());
   }
 }
-
-//two chance
-//한번만 더해보자!/
-//포카침
