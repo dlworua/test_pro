@@ -15,5 +15,5 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//한번만 더해보자!1.
+//한번만 더해보자!
 //포카침
